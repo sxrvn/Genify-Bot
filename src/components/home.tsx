@@ -31,7 +31,7 @@ const Home: React.FC = () => {
               <div className="p-8 flex flex-col items-center justify-center md:w-1/3" style={{ backgroundColor: "#f87315" }}>
                 <div className="rounded-full border-4 border-white overflow-hidden w-40 h-40 mb-6">
                   <img
-                    src="https://i.ibb.co/8gk2fg37/Shravan.jpg"
+                    src="https://i.ibb.co/dJDNRSCD/148.jpg"
                     alt="Shravan Kondekar"
                     className="w-full h-full object-cover"
                   />
