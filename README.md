@@ -2,7 +2,7 @@
 
 A modern AI-powered response generator with customizable mood settings, leveraging Google's Gemini AI to create intelligent, context-aware replies. Built with React, TypeScript, and Tailwind CSS.
 
-![Genify](https://i.ibb.co/MXwxfvZ/b9mrbonkcilewmx1fvgs.jpg)
+<img src="https://i.ibb.co/MXwxfvZ/b9mrbonkcilewmx1fvgs.jpg" alt="Genify"/>
 
 ## 🌟 Features
 
