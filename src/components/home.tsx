@@ -9,9 +9,11 @@ const Home: React.FC = () => {
     <div className="min-h-screen bg-white grid-background flex flex-col items-center justify-center p-4 md:p-8">
       <div className="w-full max-w-6xl">
         <header className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">Genify</h1>
+          <h1 className="font-title text-6xl font-extrabold bg-gradient-to-r from-gray-400 via-[#18141F] to-gray-400 bg-clip-text text-transparent mb-4 tracking-wide drop-shadow-2xl">
+  Genify AI
+</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Made with love by Shravan ❤️
+            Made with 💜 by Shravan
           </p>
         </header>
 
