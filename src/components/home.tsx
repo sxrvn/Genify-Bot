@@ -13,7 +13,7 @@ const Home: React.FC = () => {
   Genify AI
 </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Made with 💜 by Shravan
+            Made with 🤍 by Shravan
           </p>
         </header>
 
